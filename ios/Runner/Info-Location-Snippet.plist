@@ -1,0 +1,5 @@
+<!-- Copie estas chaves para dentro do elemento <dict> do Info.plist principal. -->
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>O kGPS-Locator precisa da localização para mostrar coordenadas e navegar até waypoints.</string>
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>O kGPS-Locator usa a localização enquanto o aplicativo está em uso.</string>
